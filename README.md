@@ -1,1 +1,1 @@
-# trl
+pip install -r requirements.txt
